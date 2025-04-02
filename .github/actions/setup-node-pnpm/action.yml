@@ -1,0 +1,24 @@
+name: setup-node-pnpm
+
+description: Setup node and pnpm
+runs:
+  using: "composite"
+  steps:
+    - name: Install pnpm package manager
+      uses: pnpm/action-setup@v4
+
+    - name: Set global store
+      shell: bash
+      run: pnpm config set store-dir ~/.pnpm-store
+
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v4
+      with:
+        node-version-file: ".nvmrc"
+        # cache: "pnpm"
+        registry-url: 'https://npm.pkg.github.com'
+        scope: '@acocia-agaps'
+
+    - name: Install dependencies
+      shell: bash
+      run: pnpm install --frozen-lockfile

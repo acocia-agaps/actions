@@ -23,6 +23,6 @@ runs:
       shell: bash
       run: pnpm install --frozen-lockfile
 
-    - name: Add scripts directory to PATH
+    - name: Add bin directory to PATH
       shell: bash
-      run: echo "$(pnpm root)/.bin" >> $GITHUB_PATH
+      run: pnpm bin >> $GITHUB_PATH

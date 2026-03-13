@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.10](https://github.com/acocia-agaps/actions/compare/v0.0.9...v0.0.10) (2026-03-13)
+
+
+### Bug Fixes
+
+* **deps:** update pnpm/action-setup digest to fc06bc1 ([#10](https://github.com/acocia-agaps/actions/issues/10)) ([f182db2](https://github.com/acocia-agaps/actions/commit/f182db2a3ebe26f777cb4977504487c9155fc438))
+
 ## [0.0.9](https://github.com/acocia-agaps/actions/compare/v0.0.8...v0.0.9) (2026-03-11)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.11](https://github.com/acocia-agaps/actions/compare/v0.0.10...v0.0.11) (2026-03-14)
+
+
+### Bug Fixes
+
+* **deps:** update actions/create-github-app-token action to v3 ([#13](https://github.com/acocia-agaps/actions/issues/13)) ([6876676](https://github.com/acocia-agaps/actions/commit/6876676b11746d5b1059a05433e3696911f974f6))
+
 ## [0.0.10](https://github.com/acocia-agaps/actions/compare/v0.0.9...v0.0.10) (2026-03-13)
 
 

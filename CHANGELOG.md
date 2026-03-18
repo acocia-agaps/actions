@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.12](https://github.com/acocia-agaps/actions/compare/v0.0.11...v0.0.12) (2026-03-18)
+
+
+### Bug Fixes
+
+* **deps:** update pnpm/action-setup action to v5 ([#15](https://github.com/acocia-agaps/actions/issues/15)) ([ac58cff](https://github.com/acocia-agaps/actions/commit/ac58cffb1c8b8a328cc7dbb9b7a470f23ca56152))
+
 ## [0.0.11](https://github.com/acocia-agaps/actions/compare/v0.0.10...v0.0.11) (2026-03-14)
 
 

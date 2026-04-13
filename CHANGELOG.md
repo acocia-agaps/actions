@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.13](https://github.com/acocia-agaps/actions/compare/v0.0.12...v0.0.13) (2026-04-13)
+
+
+### Bug Fixes
+
+* **deps:** update actions/create-github-app-token digest to 1b10c78 ([#17](https://github.com/acocia-agaps/actions/issues/17)) ([164ba5d](https://github.com/acocia-agaps/actions/commit/164ba5d19fb4203050bf141a34b86f722c4fa085))
+* **deps:** update pnpm/action-setup action to v6 ([#18](https://github.com/acocia-agaps/actions/issues/18)) ([fbe563e](https://github.com/acocia-agaps/actions/commit/fbe563e2a088c75a98895f98adf276c43e6652db))
+
 ## [0.0.12](https://github.com/acocia-agaps/actions/compare/v0.0.11...v0.0.12) (2026-03-18)
 
 

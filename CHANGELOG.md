@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.14](https://github.com/acocia-agaps/actions/compare/v0.0.13...v0.0.14) (2026-04-20)
+
+
+### Bug Fixes
+
+* **deps:** update actions/setup-node digest to 48b55a0 ([#23](https://github.com/acocia-agaps/actions/issues/23)) ([edfbf21](https://github.com/acocia-agaps/actions/commit/edfbf2166e07164357c8afb20c6145535865244b))
+* **deps:** update googleapis/release-please-action digest to 5c625bf ([#20](https://github.com/acocia-agaps/actions/issues/20)) ([e3c1b72](https://github.com/acocia-agaps/actions/commit/e3c1b7201854508a0b35469d83bb3745ab32578a))
+* **deps:** update pnpm/action-setup digest to 71c9247 ([#22](https://github.com/acocia-agaps/actions/issues/22)) ([add8c32](https://github.com/acocia-agaps/actions/commit/add8c32c230fef79ca0e4d9e9c5fe21b15fe7067))
+
 ## [0.0.13](https://github.com/acocia-agaps/actions/compare/v0.0.12...v0.0.13) (2026-04-13)
 
 

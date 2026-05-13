@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.0.16](https://github.com/acocia-agaps/actions/compare/v0.0.15...v0.0.16) (2026-05-13)
+
+
+### Bug Fixes
+
+* **deps:** update actions/create-github-app-token digest to bcd2ba4 ([#33](https://github.com/acocia-agaps/actions/issues/33)) ([4474d17](https://github.com/acocia-agaps/actions/commit/4474d1777cd0551552a44d3b3934c900621abb0b))
+* **deps:** update pnpm/action-setup digest to 0e279bb ([#32](https://github.com/acocia-agaps/actions/issues/32)) ([9eb7b62](https://github.com/acocia-agaps/actions/commit/9eb7b6229d0f9dd5ffcc7c6bac2c1026d44e5bdd))
+* **deps:** update pnpm/action-setup digest to 739bfe4 ([#31](https://github.com/acocia-agaps/actions/issues/31)) ([bc4bb12](https://github.com/acocia-agaps/actions/commit/bc4bb12c670f4ddadbc6e6c4809693c4e22c25c0))
+* **deps:** update pnpm/action-setup digest to 91ab88e ([#29](https://github.com/acocia-agaps/actions/issues/29)) ([b84afa4](https://github.com/acocia-agaps/actions/commit/b84afa45aa0e3b9e5a57d45c6cac725ee8daa600))
+
 ## [0.0.15](https://github.com/acocia-agaps/actions/compare/v0.0.14...v0.0.15) (2026-05-04)
 
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.17](https://github.com/acocia-agaps/actions/compare/v0.0.16...v0.0.17) (2026-08-06)
+
+
+### Bug Fixes
+
+* **deps:** update actions/setup-node action to v7 ([#37](https://github.com/acocia-agaps/actions/issues/37)) ([e526d4b](https://github.com/acocia-agaps/actions/commit/e526d4b659eb6e4157e22f53e11cbdeaeaf17173))
+* **deps:** update pnpm/action-setup digest to 0977fd9 ([#38](https://github.com/acocia-agaps/actions/issues/38)) ([0661c9b](https://github.com/acocia-agaps/actions/commit/0661c9b3274fa0e2eb5419fe76047c5cf6ef43cf))
+* **deps:** update pnpm/action-setup digest to 0ebf471 ([#34](https://github.com/acocia-agaps/actions/issues/34)) ([4dc94e6](https://github.com/acocia-agaps/actions/commit/4dc94e6d3e916a34325337e4c75d39d0eaae7a07))
+
 ## [0.0.16](https://github.com/acocia-agaps/actions/compare/v0.0.15...v0.0.16) (2026-05-13)
 
 
